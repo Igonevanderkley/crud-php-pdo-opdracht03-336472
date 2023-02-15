@@ -12,8 +12,8 @@
     <h4>Invoer Achtbaan</h4>
     <form action="create.php" method="post">
 
-    <label for="coastername">Naam Achtbaan:</label><br>
-    <input type="text" name="coastername" id="coastername"><br>
+    <label for="coasterName">Naam Achtbaan:</label><br>
+    <input type="text" name="coasterName" id="coasterName"><br>
     <br>
     <label for="amusementName">Naam Pretpark:</label><br>
     <input type="text" name="amusementName" id="amusementName"><br>
